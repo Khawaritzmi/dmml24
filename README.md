@@ -1,5 +1,11 @@
 # Iris Flower Species Prediction
 
+<img src='./asset/ssapp1.png'>
+
+Dataset: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html
+
+
+
 ### 1. Create virtual environment
 
 ```
